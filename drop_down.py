@@ -9,4 +9,3 @@ driver.maximize_window()
 driver.get("https://www.globalsqa.com/demo-site/select-dropdown-menu/")
 print(driver.title)
 
-driver.find_element(By.ID, )
